@@ -1,0 +1,3 @@
+git config --global user.name ##used to change the user name of master
+git config --global user.email ## used to change the email of the master
+git
