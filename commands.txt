@@ -4,3 +4,6 @@ git push -u origin master ## us to push fil into github
 git diff file name ## to check the diff made into a file
 git checkout . ## used to reset all the files 
 git checkout filename ## used to reset the specified file name
+git add -A #stages all files
+git add . ## stages new and modified ,without deleted
+git add -u ## stages modified and deleted , without new
