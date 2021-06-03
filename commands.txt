@@ -2,3 +2,5 @@ git config --global user.name ##used to change the user name of master
 git config --global user.email ## used to change the email of the master
 git push -u origin master ## us to push fil into github
 git diff file name ## to check the diff made into a file
+git checkout . ## used to reset all the files 
+git checkout filename ## used to reset the specified file name
